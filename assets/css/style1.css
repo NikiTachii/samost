@@ -182,8 +182,9 @@ header a:hover {
 
 .kat {
     display: flex;
-    gap: 80px;
+    gap: 40px;
     justify-content: center;
+    align-items: center;
 }
 
 .kat_item {
